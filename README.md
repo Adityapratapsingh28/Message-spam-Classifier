@@ -17,3 +17,4 @@ A lot of people on social media suffer from inappropriate messages from others w
 This model help them to classify the message between spam and ham which will save peoples time to not waste on inappropriate messages and maintain social peace.
 
 ## Concept page
+![Message_spam_pulsesocial (1)](https://github.com/Adityapratapsingh28/Message-spam-Classifier/assets/143888880/7dd4d722-894c-41f6-acd9-2b242e31f386)
